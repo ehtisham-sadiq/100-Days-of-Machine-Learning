@@ -12,7 +12,7 @@ The prerequisites for starting a 100-Days-of-Machine-Learning are following:
 
 - **Basic knowledge of data analysis:** Understanding of data analysis concepts such as `data cleaning`, `preprocessing`, and `data visualization` will help in understanding the data and make the best use of it.
 
-## Day 1: Overview of  the Machine Learning
+## Day 1: [Overview of  the Machine Learning](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%201:%20Overview%20of%20ML)
 Learning Agenda of Day 1 is :
 - **What is ML? How does it work?**
 - **Examples and Real World Applications**
@@ -22,20 +22,20 @@ Learning Agenda of Day 1 is :
 - **Machine Learning Advantages vs Disadvantages**
 
 
-## Day 2: Supervised Learning Setup
+## Day 2: [Supervised Learning Setup](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%202:%20Supervised%20Learning%20Setup)
 Learning Agenda of Day 2 is :
 - **What is Supervised Learning?**
 - **Algorithm vs. Model & Rules vs. Learning**
 - **Formalizing the setup or Formulation: Regression vs Classification**
 - **Feature Space vs Label Space**
 
-## Day 3: Hypothesis Space
+## Day 3: [Hypothesis Space](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%203:%20Hypothesis%20Space)
 Learning Agenda of Day 3 is :
 - **What is Hypothesis Space?**
 - **How to choose Hypothesis Space?**
 - **How to evaluate Hypothesis Space? or How do we evaluate the performance?**
 
-## Day 4: Hypothesis Space Cont.
+## Day 4: [Hypothesis Space Cont.](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%204:%20Hypothesis%20Space%20Cont.)
 Learning Agenda of Day 4 is :
 - **Loss Functions**
 	- 0/1 Loss
@@ -47,7 +47,7 @@ Learning Agenda of Day 4 is :
 - **Training, Validation and Testing Sets**
 
 
-## Day 5: Nearest Neighbors Methods
+## Day 5: [Nearest Neighbors Methods](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%205:%20Nearest%20Neighbors%20Methods)
 Learning Agenda of Day 5 is :
 - **KNN Algorithm**
 	- Basic Idea
@@ -61,7 +61,7 @@ Learning Agenda of Day 5 is :
 	- Practical Issues
 
 
-## Day 6: Nearest Neighbors Methods Cont. 
+## Day 6: [Nearest Neighbors Methods Cont.](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%206:%20Nearest%20Neighbors%20Methods%20-%20Distance%20Metrics) 
 Learning Agenda of Day 6 is :
 - **Similarity/Distance Metrics**
 	- Constraints/Properties on Distance Metrics
