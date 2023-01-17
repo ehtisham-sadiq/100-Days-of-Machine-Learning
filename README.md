@@ -72,3 +72,12 @@ Learning Agenda of Day 6 is :
 	- Norm of a Vector and Its Properties
 	- Cosine Distance
 	- Practical Issues in Computing Distance
+
+
+## Day 7: [Nearest Neighbors Methods Cont.](https://github.com/bsef19m521/100-Days-of-Machine-Learning/tree/main/Day%207:%20Nearest%20Neighbors%20Methods%20Cont.) 
+Learning Agenda of Day 7 is :
+- KNN Algorithm Formulation: Regression vs Classification
+- Complexity of KNN
+- Choosing the value of K - The Theory
+- Tuning the hyper-parameter K- The Method
+- KNN- The good, the bad, the ugly.
