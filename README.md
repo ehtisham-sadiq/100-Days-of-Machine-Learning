@@ -81,3 +81,12 @@ Learning Agenda of Day 7 is :
 - Choosing the value of K - The Theory
 - Tuning the hyper-parameter K- The Method
 - KNN- The good, the bad, the ugly.
+
+
+## Day 8: Nearest Neighbors Methods Cont. 
+Learning Agenda of Day 8 is :
+- Algorithm Convergence 
+	- Error Convergence 
+	- Learning Problem
+	- Bayes Optimal Classifier
+	- 1-NN Error as n-$\inifty$
